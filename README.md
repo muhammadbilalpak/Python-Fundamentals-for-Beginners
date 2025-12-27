@@ -34,7 +34,7 @@ It is used for:
 </pre>
 <h1>Python Comments</h1>
 <p> They are used only to explain the code or leave notes for humans. Comments are not interpreted by Python. Meaining, Comments will not be executed.<br/>
-There are Two Types Comments <br/> (1) single line Comments <br/> (2) Double line Comments <br/>
+There are Two Types Comments <br/> (1) single line Comments <br/> (2) Multiple line Comments <br/>
   Example in this link <a href="https://github.com/ceobilal/Basic-python-/blob/main/01%20Python%20Comments.py">Comments Example.</a>
 </p>
 <h1>What is Variables in Python</h1>
